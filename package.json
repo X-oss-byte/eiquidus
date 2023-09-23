@@ -37,7 +37,7 @@
     "jsonminify": "0.4.1",
     "jstransformer-markdown-it": "^2.1.0",
     "mongodb": "3.6.3",
-    "mongoose": "5.11.4",
+    "mongoose": "5.13.20",
     "qr-image": "~3.2.0",
     "sass": "1.30.0",
     "json": "10.0.0",
